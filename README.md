@@ -1,5 +1,5 @@
 # 💫About Me :
-"Hey, I’m Yash Gholap (Crus).
+"Hey, I’m Yash (Crus).
 A computer Engineer specializing in cybersecurity, blockchain, and IoT.
 Passionate about open-source contributions.
 I write blogs to share ideas, notes, and tips—partly for myself, partly to explore and share my interests."
