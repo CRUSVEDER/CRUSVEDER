@@ -15,7 +15,6 @@ I write blogs to share ideas, notes, and tips—partly for myself, partly to exp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CRUSVEDER&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CRUSVEDER&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/crusveder) 
+
 
   
