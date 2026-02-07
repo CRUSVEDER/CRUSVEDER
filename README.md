@@ -47,7 +47,7 @@ LEARNING [████████░░░░░░░░░░░░] 40%
 
 ### $ cat /projects/featured.log
 * **[CTF Writeups]** - Documentation of solved challenges from HackTheBox/TryHackMe.
-* **[Custom Script]** - A utility for automating [process].
+* **[Custom Script]** - A utility for automating Various Processes.
 
 ---
 
